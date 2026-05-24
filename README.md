@@ -1,7 +1,6 @@
 <img width="1271" height="539" alt="image" src="https://github.com/user-attachments/assets/817174fe-a59a-4c99-b2f4-ee452ec612b9" />
 # 🎬 Netflix Data Pipeline — ELT Architecture with Snowflake & dbt
 
-![Pipeline Architecture](./architecture.png)
 
 A modern **ELT (Extract → Load → Transform)** data pipeline that ingests Netflix data from raw source files, stages it in Amazon S3, loads it into Snowflake, and transforms it using dbt — serving clean, production-ready data to BI tools like Looker Studio, Power BI, and Tableau.
 
